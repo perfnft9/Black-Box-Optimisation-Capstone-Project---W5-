@@ -17,3 +17,11 @@ This repository documents my Black-Box Optimisation (BBO) capstone project. The 
 │
 ├── requirements.txt
 ├── README.md
+
+Repository structure
+
+Libraries & rationale
+
+Planned improvements
+
+Documentation / reproduction instructions
