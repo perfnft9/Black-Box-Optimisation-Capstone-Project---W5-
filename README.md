@@ -18,10 +18,45 @@ This repository documents my Black-Box Optimisation (BBO) capstone project. The 
 ├── requirements.txt
 ├── README.md
 
-Repository structure
 
-Libraries & rationale
+Project Overview
 
-Planned improvements
+Brief description of your black-box optimisation project.
 
-Documentation / reproduction instructions
+Goals and function descriptions.
+
+Repository Structure ✅ (Step 2 content)
+
+data/ – Function evaluation data with raw inputs/outputs and samples.csv.
+
+notebooks/ – Weekly analysis notebooks.
+
+src/ – Reusable utilities.
+
+submissions/ – Query logs for traceability.
+
+requirements.txt / README.md – Dependencies and context.
+
+Libraries & Rationale
+
+PyTorch, scikit-learn, NumPy/Pandas, Matplotlib/Seaborn.
+
+Why you chose custom NN ensembles over GPyTorch/BoTorch.
+
+Planned Improvements
+
+results/ for plots/tables.
+
+config/ for strategy parameters.
+
+models/ for NN checkpoints.
+
+Documentation / Reproduction
+
+Week 5 results.
+
+NN architecture (hidden dims, dropout, ensemble size).
+
+Lessons learned.
+
+How to regenerate queries.
